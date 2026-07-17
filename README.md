@@ -6,6 +6,12 @@ An open Qentrah agent skill for validating release prerequisites.
 
 Catch metadata, routing, performance, and deployment gaps before production.
 
+## Install
+
+```bash
+npx @qentrah/skills add release-readiness
+```
+
 ## Structure
 
 - `SKILL.md` — the portable instructions consumed by an AI agent.
